@@ -64,31 +64,7 @@
 
 </div>
 
----
-
-## 🏆 Trophies
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pimping2k&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pimping2k&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<i>"Talk is cheap. Show me the code."</i> 🕹️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 

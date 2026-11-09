@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pimping2k&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 <a href="https://www.linkedin.com/in/andrey-savastin-b368771a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tan-shirl-35.tiiny.site/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 

@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Pimping2k/Pimping2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Andrei%20Savastin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Chisinau%2C%20Moldova&descSize=18&descAlignY=60" width="100%" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/Pimping2k">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrei+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;I+build+games+with+C%2B%2B+and+love+it;Currently+working+at+ArtDock+Games" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pimping2k&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<a href="https://www.linkedin.com/in/andrey-savastin-b368771a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://andreisavastin.tiiny.site/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 👾 About me
+
+```cpp
+struct Developer {
+    const char* name     = "Andrei Savastin";
+    const char* role     = "Game Developer";
+    const char* company  = "ARTDOCK COMPANY SRL";
+    const char* location = "Chisinau, Moldova 🇲🇩";
+
+    void currentlyDoing() {
+        // building games, learning new things, shipping features
+    }
+};
+```
+
+- 🎮 Making games at **[@ArtDock-Games](https://github.com/ArtDock-Games)**
+- 🔭 Working on **Game-PaoPao**, **DuckIt** and other projects
+- ⚡ Passionate about gameplay programming, performance and clean code
+- 📫 Reach me via LinkedIn or my portfolio
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
+</div>
+
+> ✏️ Edit this list to match your real stack: https://shields.io / https://simpleicons.org
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pimping2k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimping2k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Pimping2k&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pimping2k&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pimping2k&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Talk is cheap. Show me the code."</i> 🕹️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>

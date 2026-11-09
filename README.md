@@ -44,8 +44,8 @@
 
 | 🎮 Project | 📝 Info |
 |:--|:--|
-| **[Pao Pao](https://github.com/ArtDock-Games/Game-PaoPao)** | Game by ArtDock Games |
-| **Past Perfect** | Game project |
+| **[Pao Pao](https://store.steampowered.com/app/3024130/PAO_PAO/)** | Game by ArtDock Games |
+| **Past Perfect** | TBA |
 
 </div>
 

@@ -55,9 +55,6 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pimping2k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimping2k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Pimping2k&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />

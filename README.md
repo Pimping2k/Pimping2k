@@ -18,7 +18,7 @@
 
 ## 👾 About me
 
-- 🎮 Making games at **[@ArtDock-Games](https://github.com/ArtDock-Games)**
+- 🎮 Making games at **[@ArtDock-Games](https://games.artdock.studio/)**
 - 🌐 Building multiplayer with **Netcode for GameObjects**
 - ⚡ Passionate about gameplay programming, performance and clean code
 - 📫 Reach me via LinkedIn or my portfolio

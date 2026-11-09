@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Andrei%20Savastin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Chisinau%2C%20Moldova&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Andrei%20Savastin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23%20%E2%80%A2%20Chisinau%2C%20Moldova&descSize=18&descAlignY=60" width="100%" />
 
 <a href="https://github.com/Pimping2k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrei+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;I+build+games+with+C%2B%2B+and+love+it;Currently+working+at+ArtDock+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrei+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+%E2%80%A2+C%23+%E2%80%A2+Netcode+for+GameObjects;3D+Game+Development;Currently+working+at+ArtDock+Games" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,21 +18,20 @@
 
 ## 👾 About me
 
-```cpp
-struct Developer {
-    const char* name     = "Andrei Savastin";
-    const char* role     = "Game Developer";
-    const char* company  = "ARTDOCK COMPANY SRL";
-    const char* location = "Chisinau, Moldova 🇲🇩";
+```csharp
+public class Developer
+{
+    public string Name     = "Andrei Savastin";
+    public string Role     = "Game Developer";
+    public string Company  = "ARTDOCK COMPANY SRL";
+    public string Location = "Chisinau, Moldova";
 
-    void currentlyDoing() {
-        // building games, learning new things, shipping features
-    }
-};
+    public string[] Stack = { "Unity", "C#", "Netcode for GameObjects", "3D Game Development" };
+}
 ```
 
 - 🎮 Making games at **[@ArtDock-Games](https://github.com/ArtDock-Games)**
-- 🔭 Working on **Game-PaoPao**, **DuckIt** and other projects
+- 🌐 Building multiplayer with **Netcode for GameObjects**
 - ⚡ Passionate about gameplay programming, performance and clean code
 - 📫 Reach me via LinkedIn or my portfolio
 
@@ -42,16 +41,25 @@ struct Developer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Netcode_for_GameObjects-7c3aed?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/3D_Game_Development-302b63?style=for-the-badge&logo=blender&logoColor=white" />
 
 </div>
 
-> ✏️ Edit this list to match your real stack: https://shields.io / https://simpleicons.org
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| 🎮 Project | 📝 Info |
+|:--|:--|
+| **[Pao Pao](https://github.com/ArtDock-Games/Game-PaoPao)** | Game by ArtDock Games |
+| **Past Perfect** | Game project |
+
+</div>
 
 ---
 

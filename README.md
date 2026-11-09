@@ -18,18 +18,6 @@
 
 ## 👾 About me
 
-```csharp
-public class Developer
-{
-    public string Name     = "Andrei Savastin";
-    public string Role     = "Game Developer";
-    public string Company  = "ARTDOCK COMPANY SRL";
-    public string Location = "Chisinau, Moldova";
-
-    public string[] Stack = { "Unity", "C#", "Netcode for GameObjects", "3D Game Development" };
-}
-```
-
 - 🎮 Making games at **[@ArtDock-Games](https://github.com/ArtDock-Games)**
 - 🌐 Building multiplayer with **Netcode for GameObjects**
 - ⚡ Passionate about gameplay programming, performance and clean code

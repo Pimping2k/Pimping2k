@@ -43,7 +43,7 @@
 
 |     🎮 Project     | 📝 Info |
 |:---|:---|
-| **[Pao Pao](https://store.steampowered.com/app/3024130/PAO_PAO/)** | PAO PAO combines restaurant management with exploration, farming, fishing, customization and cooperative play. Player feedback will help us identify where the existing systems, progression and balance can be improved and which parts of the current experience would benefit most from further development.” |
+| **[Pao Pao](https://store.steampowered.com/app/3024130/PAO_PAO/)** | PAO PAO combines restaurant management with exploration, farming, fishing, customization and cooperative play.|
 | **Past Perfect** | TBA |
 
 </div>
